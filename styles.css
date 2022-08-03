@@ -1,5 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
-    background-color: black;
-    color: blanchedalmond;
+   background-color: black;
     text-align: center;
+    width: 100%;
+    padding: 0px;
+    border: 1px;
+    color: yellowgreen;
+}
+bar button{
+        margin-top: calc(0%-0px);
+        margin-left: 20px;
+        display: inline-block;
+        background-color: floralwhite;
+        width: 200px;
+        height: 40px;
+        text-decoration-style: solid;
+}
+b img{
+   float: right;
+   line-height: 100px;
+}
+body{
+    width: 100%;
+    text-align: justify;
+}
+article {
+    
+    width: 80%;
+    background-color: aqua;
+    border-style: double;
+    border-color: black;
+}
+
+resu p{
+    width: 80%;
+}
+aside{
+    float:right;
+    width: 19.5%;
+    height: 10px;
+    border-top: 10px;
+    border-color: darkred;
+}
+nav{
+    background-color: darkgray;
+    border-style: groove;
+    border-color: black;
+    height: 80px;
+}
+footer{
+    background-color: brown;
+    width: 80%;
+    border-color: black;
+    border-style: dashed;
 }

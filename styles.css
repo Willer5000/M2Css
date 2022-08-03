@@ -38,10 +38,14 @@ resu p{
 }
 aside{
     float:right;
-    width: 19.5%;
+    margin: auto;
+    width: 19.3%;
     height: 10px;
-    border-top: 10px;
-    border-color: darkred;
+    border-top: 1px;
+    border-color: black;
+    border-style: dashed;
+    padding-bottom: 269px;
+    background-color: darkslategrey;
 }
 nav{
     background-color: darkgray;
